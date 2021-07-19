@@ -291,7 +291,7 @@ return [
 
         'email' => 'userprincipalname',
 
-        'name' => 'cn',
+        'name' => 'displayname',
 
     ],
 
