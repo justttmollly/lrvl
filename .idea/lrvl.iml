@@ -8,6 +8,13 @@
       <sourceFolder url="file://$MODULE_DIR$/lrvl/tests" isTestSource="true" packagePrefix="Tests\" />
       <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lrvl/bootstrap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lrvl/bootstrap/cache" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lrvl/resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lrvl/resources/css" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lrvl/resources/sass" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lrvl/vendor/phpunit/phpunit" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/lrvl/vendor/phpunit/phpunit" />
       <excludeFolder url="file://$MODULE_DIR$/lrvl/vendor/phpunit/php-timer" />
       <excludeFolder url="file://$MODULE_DIR$/lrvl/vendor/phpunit/php-text-template" />
