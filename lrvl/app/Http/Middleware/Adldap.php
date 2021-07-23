@@ -8,7 +8,7 @@ use Illuminate\Http\Request;
 
 class Adldap
 {
-//    use Helper;
+//  use Helper;
     public $attributes;
     /**
      * Handle an incoming request.
