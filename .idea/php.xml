@@ -114,6 +114,8 @@
       <path value="$PROJECT_DIR$/lrvl/vendor/laravel/ui" />
       <path value="$PROJECT_DIR$/lrvl/vendor/laravel/socialite" />
       <path value="$PROJECT_DIR$/lrvl/vendor/league/oauth1-client" />
+      <path value="$PROJECT_DIR$/lrvl/vendor/socialiteproviders/manager" />
+      <path value="$PROJECT_DIR$/lrvl/vendor/socialiteproviders/microsoft" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.3" />

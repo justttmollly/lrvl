@@ -120,6 +120,8 @@
       <excludeFolder url="file://$MODULE_DIR$/lrvl/vendor/laravel/ui" />
       <excludeFolder url="file://$MODULE_DIR$/lrvl/vendor/laravel/socialite" />
       <excludeFolder url="file://$MODULE_DIR$/lrvl/vendor/league/oauth1-client" />
+      <excludeFolder url="file://$MODULE_DIR$/lrvl/vendor/socialiteproviders/manager" />
+      <excludeFolder url="file://$MODULE_DIR$/lrvl/vendor/socialiteproviders/microsoft" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
